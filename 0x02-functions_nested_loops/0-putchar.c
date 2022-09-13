@@ -1,15 +1,12 @@
 #include "main.h"
+
 /**
- *main - entry point
- *
- *Description: prints _putchar followed by a newline
- *
- *Return: returns 0(successful)
- *
+ * main - print putchar
+ * Return: always 0
  */
+
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
