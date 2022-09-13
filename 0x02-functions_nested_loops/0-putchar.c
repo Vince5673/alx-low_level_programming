@@ -1,15 +1,15 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *main - entry point
  *
- *Description: prints Holberton followed by a newline
+ *Description: prints _putchar followed by a newline
  *
  *Return: returns 0(successful)
  *
  */
 int main(void)
 {
-	char holbText[9] = "Holberton";
+	char holbText[9] = "_putchar";
 	int i;
 
 	for (i = 0; i < 9; i++)
