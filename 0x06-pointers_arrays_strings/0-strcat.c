@@ -1,4 +1,4 @@
-#include "main.h"
+#include "ma::in.h"
 /**
  *_strcat - conctenates two strings
  *
